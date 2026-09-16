@@ -64,7 +64,7 @@
 
 **Staða:** 🟢 Grunnformið situr. Prófa aftur síðar í blandaðri upprifjun.
 
-## 5. Línur og föll
+## 5. Línur og föll – vika 1
 - ⬜ y = ax + b
 - ⬜ Hallatala
 - ⬜ Skurðpunktur við y-ás
@@ -85,6 +85,7 @@
 - ⬜ Einfalt þjóðartekjulíkan
 
 ## 7. Annars stigs föll – vika 2
+- ⬜ Ólínulegar jöfnur
 - ⬜ Þekkja ax² + bx + c
 - ⬜ Fleygbogi
 - ⬜ Opnast upp / niður
@@ -96,8 +97,8 @@
 - ⬜ Tekjur
 - ⬜ Kostnaður
 - ⬜ Hagnaður
-- ⬜ Break-even
-- ⬜ Hámarkshagnaður
+- ⬜ Núllrekstur / break-even
+- ⬜ Hámörkun hagnaðar
 
 ## 8. Veldi og lógaritmar – vika 3
 - ⬜ Veldareglur
@@ -112,34 +113,100 @@
 - ⬜ Umbreyta veldisjöfnu í lógaritma
 - ⬜ Leysa veldisjöfnur
 - ⬜ Leysa lógaritmajöfnur
-- ⬜ Framleiðsluföll
-- ⬜ Veldisvöxtur
+- ⬜ Veldisföll
+- ⬜ Náttúrulegi lógaritminn
 
-## 9. Prósentur og fjármál – vika 4
+## 9. Hlutföll og fjármál – vika 4
+- ⬜ Hlutföll / prósentur
 - ⬜ Finna x% af tölu
 - ⬜ Finna hvað tala er mörg %
 - ⬜ Finna upprunalegt verð
 - ⬜ VSK
 - ⬜ Prósentuhækkun/lækkun
 - ⬜ Margar prósentubreytingar í röð
-- ⬜ Vísitölur
-- ⬜ Verðbólga
+- ⬜ Vextir
 - ⬜ Einfaldir vextir
 - ⬜ Vaxtavextir
-- ⬜ Nafnvextir
 - ⬜ Virkir ársvextir
+- ⬜ Verðmat
 - ⬜ Núvirði
 - ⬜ Framtíðarvirði
+- ⬜ Raðir
 - ⬜ Rúmfræðileg röð
 - ⬜ Jafngreiðslur
 - ⬜ NPV
 - ⬜ IRR
 
+## 10. Diffrun – vika 5
+- ⬜ Hvað diffrun merkir
+- ⬜ Táknun diffrunar
+- ⬜ Grunnreiknireglur diffrunar
+- ⬜ Diffrun einfaldra falla
+- ⬜ Tengja afleiðu við hallatölu / breytingarhraða
+
+## 11. Diffrun, hámörkun og teygni – vika 6
+- ⬜ Diffrun áfram
+- ⬜ Finna markgildi með afleiðu
+- ⬜ Hámörkun ólínulegra falla
+- ⬜ Lágmörkun eftir því sem við á
+- ⬜ Teygni
+- ⬜ Hagnýting í viðskipta-/hagfræðidæmum
+
+## 12. Diffrun með mörgum breytum og bestun – vika 9
+- ⬜ Hlutafleiður
+- ⬜ Jaðarföll
+- ⬜ Óskorðuð bestun
+- ⬜ Skorðuð bestun
+
+## 13. Heildun – vika 10
+- ⬜ Inngangur að heildun
+- ⬜ Grunnhugmynd heildis
+- ⬜ Neytendaábati
+- ⬜ Framleiðendaábati
+
+## 14. Fylki – vika 11
+- ⬜ Fylki og fylkjareikningur
+- ⬜ Andhverf fylki
+- ⬜ Regla Cramer
+- ⬜ Jöfnuhneppi leyst með fylkjareikningi
+
+## 15. Mismuna- og diffurjöfnur – vika 12
+- ⬜ Mismunajöfnur
+- ⬜ Diffurjöfnur
+
+## 16. Samantekt og lokapróf – vikur 13–15
+- ⬜ Stöðumatsverkefni 11
+- ⬜ Heildarupprifjun námskeiðs
+- ⬜ Yfirferð lokaprófs
+- ⬜ Byggja lokaprófspakka úr `exam/`
+- ⬜ Blandaðar prófæfingar undir tíma
+- ⬜ Lokapróf
+
+---
+
+# Tímalína námskeiðs
+
+- **Vika 4 (14.–20. sept.) – núverandi vika:** Hlutföll, vextir, verðmat og raðir
+- **Vika 5:** Diffrun hefst
+- **Vika 6:** Diffrun, hámörkun og teygni
+- **Vika 7:** Námsmatsvika
+- **Vika 8:** Lotuhlé
+- **Vika 9:** Hlutafleiður, jaðarföll og bestun
+- **Vika 10:** Heildun
+- **Vika 11:** Fylki
+- **Vika 12:** Mismunajöfnur og diffurjöfnur
+- **Vika 13:** Samantekt
+- **Vika 14:** Upprifjun og yfirferð lokaprófs
+- **Vika 15:** Lokapróf
+
+Sjá nákvæma áætlun í `KENNSLUAAETLUN.md`.
+
 ---
 
 # Næst
 1. Fara aftur í brot: deiling, stytting og jöfnur með brotum.
-2. Festa reglurnar með nokkrum sambærilegum dæmum.
-3. Prófa síðan Q-einangrun aftur síðar án upprifjunar.
-4. Ekki fara í línur/föll fyrr en grunnurinn er stöðugur.
-5. Þegar efni er merkt 🟢: prófa það aftur síðar blandað við önnur dæmi.
+2. Festa grunnalgebru nægilega til að nýtt efni byggist ekki á óöruggum grunni.
+3. Halda samt tengingu við núverandi kennsluviku svo bilið við áætlunina stækki ekki.
+4. Prófa Q-einangrun aftur síðar án upprifjunar.
+5. Fara síðan markvisst í línur/föll og viku 2–4 efnið.
+6. Þegar efni er merkt 🟢: prófa það aftur síðar blandað við önnur dæmi.
